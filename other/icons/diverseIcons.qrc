@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="photos">
+    <file>Background.jpg</file>
+    <file>beverage-3157395_1920.jpg</file>
+    <file>book-4126483_1920.jpg</file>
+    <file>fond-ecran-nature (9).JPG</file>
+    <file>pinky-swear-329329_1920.jpg</file>
+    <file>textBienvenue.jpg</file>
+  </qresource>
+</RCC>
